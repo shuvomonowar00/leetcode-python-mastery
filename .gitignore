@@ -1,0 +1,17 @@
+# Ignore IDE/editor settings
+.idea/
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files
+.env
+*.env
+
+# OS specific files
+.DS_Store
+Thumbs.db
