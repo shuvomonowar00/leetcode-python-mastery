@@ -1,1 +1,1 @@
-Solve LeetCode #217: Contains Duplicate
+Solve LeetCode #217: Contains Duplicate using sorting
