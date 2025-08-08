@@ -1,1 +1,1 @@
-Solve LeetCode #206: Reverse Linked List
+Solve LeetCode 104. Maximum Depth of Binary Tree
