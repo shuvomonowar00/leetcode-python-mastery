@@ -1,1 +1,1 @@
-Solve LeetCode 605. Can Place Flowers
+Solve LeetCode 2352. Equal Row and Column Pairs
