@@ -1,1 +1,1 @@
-Solve LeetCode 2352. Equal Row and Column Pairs
+Solve LeetCode 443. String Compression
