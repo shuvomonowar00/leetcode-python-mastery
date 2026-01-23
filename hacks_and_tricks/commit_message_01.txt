@@ -1,2 +1,2 @@
 Solve LeetCode String, Array, Greedy, DP types problems
-Solve LeetCode problem_number. problem_name [Example: Solve LeetCode 2352. Equal Row and Column Pairs]
+Solve LeetCode problem problem_number. problem_name [Example: Solve LeetCode 2352. Equal Row and Column Pairs]
